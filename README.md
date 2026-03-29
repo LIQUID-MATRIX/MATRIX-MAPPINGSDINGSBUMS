@@ -1,3 +1,8 @@
+######################################
+Credits: The Morpheus Matrix Community
+######################################
+
+
 MatrixChat ESP32 – Mini Chat Display
 
 Ein eigenständiges Chat-Display auf Basis eines ESP32, das Nachrichten aus Matrix-Räumen in Echtzeit visualisiert. Es verbindet sich via WLAN direkt mit einem Matrix-Homeserver und benötigt keine zusätzliche App oder Cloud-Infrastruktur.
