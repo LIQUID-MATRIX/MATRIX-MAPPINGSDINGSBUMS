@@ -1,6 +1,4 @@
-######################################
-Credits: The Morpheus Matrix Community
-######################################
+###### Credits: The Morpheus Matrix Community ######
 
 
 MatrixChat ESP32 – Mini Chat Display
